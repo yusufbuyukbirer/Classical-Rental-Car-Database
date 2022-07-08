@@ -23,3 +23,11 @@ This database holds 10 tables and made in Turkish. But I translated some parts i
 
 # E-R Diagram
 
+![E-R Diagram](https://user-images.githubusercontent.com/96497510/178055324-31bce376-5102-4b0c-bd4c-48a665b57598.jpg)
+
+# Database Features
+
+- 10 Table
+- 1 Stored Procedure
+- 1 Trigger
+- 1 Function
