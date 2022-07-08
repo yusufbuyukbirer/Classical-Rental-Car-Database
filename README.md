@@ -10,7 +10,7 @@ This database holds 10 tables and made in Turkish. But I translated some parts i
 
 | **Tables**                                                | **Usage**                                        |
 |-----------------------------------------------------------|--------------------------------------------------|
-| CARS(araclar)                                             | Holds the classical car brands.                  |
+| CARS(araclar)                                             | Holds the classical car brands, models, year etc.|
 | CAR FEATURES(aracozellikleri)                             | Holds the brands features.                       |
 | CATEGORIES(kategoriler)                                   | Holds the automotive classes.                    |
 | RENTAL STATIONS(kiralama_istasyonlari)                    | Holds the places that we can rent classical car. |
